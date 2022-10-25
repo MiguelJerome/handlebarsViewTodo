@@ -7,6 +7,7 @@ Handlebars View todo
 * [Description](#Description)
 * [Installation instructions](#Installation-instructions)
 * [Usage Information](#Usage-Information)
+* [Test Instructions](#Test-Instructions)
 
 
 ## Description
