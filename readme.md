@@ -14,7 +14,7 @@ Handlebars View todo
     This application is used for creating a todo list with the help of an SQLite database by using the route and the service of handlebars.
 ## Installation instructions
 * In the first step, you need to type in the command line (CLI) in the terminal:    npm i
-## ## Usage Information
+## Usage Information
 In the second step, you have two different options you can choose from:
 * For using nodemon, you need to type in the command line (CLI) in the terminal:    npm run watch
 * To start the server, you need to type in the command line (CLI) in the terminal:   npm start
