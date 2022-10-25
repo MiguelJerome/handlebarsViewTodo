@@ -4,5 +4,5 @@
 
 ##  In the first step, you need to type in the command line (CLI) in the terminal    npm i
 ## In the second step, you have two different options you can choose from:
-### For using nodemon, you need to type in the command line (CLI) in the terminal    npm run watch
-### To start the server, you need to type in the command line (CLI) in the terminal   npm start
+### * For using nodemon, you need to type in the command line (CLI) in the terminal    npm run watch
+### * To start the server, you need to type in the command line (CLI) in the terminal   npm start
