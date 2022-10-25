@@ -1,4 +1,4 @@
-* [Handlebars View todo de jeu video Git Hub](https://github.com/MiguelJerome/handlebarsViewTodo)
+* [Handlebars View todo Git Hub](https://github.com/MiguelJerome/handlebarsViewTodo)
 * [Handlebars View todo deploy to Heroku](https://frozen-harbor-56299.herokuapp.com/)
 
 
